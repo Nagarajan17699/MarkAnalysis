@@ -65,7 +65,7 @@ public class dbPush extends HttpServlet {
 
             
         } catch (Exception ex) {
-            Logger.getLogger(dbPush.class.getName()).log(Level.SEVERE, null, ex);
+            
             System.out.print(ex);
         }
         

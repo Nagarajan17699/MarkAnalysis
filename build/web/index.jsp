@@ -70,7 +70,7 @@
       </script>
       </head>
     <body>
-         <%@include file="header.jsp" %>
+        <%-- <%@include file="header.jsp" %> --%>
       <div class="row ">
         <div class="col-md-12 text-center jumbotron">
             <div class="">
@@ -136,6 +136,6 @@
             </div>
             <div class="col-sm-3"></div>
         </div>
-                <%@include file="footer.jsp" %>
+             <%--  <%@include file="footer.jsp" %>  --%>
     </body>
 </html>
